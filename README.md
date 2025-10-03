@@ -1,0 +1,2 @@
+The NWC Association Website is a modern, responsive web application built using Next.js, TypeScript, and Tailwind CSS. It serves as the official portal for the Networking & Computing (NWC) Association, featuring pages like About, Events, Domains, Team, Gallery, and Contact. It includes authentication for members and admins, a custom dashboard, and an admin panel to manage content. Designed for performance and accessibility, this site is deployed on Vercel and styled with reusable UI components for a clean and dynamic user experience.
+# FUSGTWebsite
