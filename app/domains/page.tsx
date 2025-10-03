@@ -466,7 +466,7 @@ export default function DomainsPage() {
       {/* Hero Section */}
       <section className="py-16 px-4 bg-gradient-to-r from-indigo-50 to-purple-50">
         <div className="max-w-6xl mx-auto text-center">
-          <Badge className="mb-4">Our Domains</Badge>
+          <Badge className="mb-4">Komitler</Badge>
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Explore Our Domains</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Discover your passion and develop your skills across our four core domains. Each domain offers unique
