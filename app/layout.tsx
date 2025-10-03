@@ -8,7 +8,7 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "NWC Association - SRM University",
+  title: "Siber Güvenlik Topluluğu - Fırat Üniversitesi",
   description:
     "Official website of NWC Association, SRM University. Join us for events, workshops, and skill development across technical and non-technical domains.",
   keywords:
